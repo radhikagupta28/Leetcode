@@ -4,10 +4,12 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/radhikagupta28/Leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/radhikagupta28/Leetcode/tree/master/0064-minimum-path-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/radhikagupta28/Leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/radhikagupta28/Leetcode/tree/master/0064-minimum-path-sum) |
 ## Matrix
 |  |
@@ -37,4 +39,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/radhikagupta28/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/radhikagupta28/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
