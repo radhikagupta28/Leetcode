@@ -6,11 +6,13 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/radhikagupta28/Leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/radhikagupta28/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/radhikagupta28/Leetcode/tree/master/0120-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/radhikagupta28/Leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/radhikagupta28/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/radhikagupta28/Leetcode/tree/master/0120-triangle) |
 ## Matrix
 |  |
 | ------- |
