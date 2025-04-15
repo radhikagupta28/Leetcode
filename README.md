@@ -60,10 +60,12 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/radhikagupta28/Leetcode/tree/master/0113-path-sum-ii) |
+| [0801-is-graph-bipartite](https://github.com/radhikagupta28/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/radhikagupta28/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/radhikagupta28/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/radhikagupta28/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -91,4 +93,12 @@
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/radhikagupta28/Leetcode/tree/master/2998-count-symmetric-integers) |
+## Union Find
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/radhikagupta28/Leetcode/tree/master/0801-is-graph-bipartite) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/radhikagupta28/Leetcode/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
