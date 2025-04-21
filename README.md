@@ -14,6 +14,7 @@
 | [0053-maximum-subarray](https://github.com/radhikagupta28/Leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/radhikagupta28/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/radhikagupta28/Leetcode/tree/master/0120-triangle) |
+| [0338-counting-bits](https://github.com/radhikagupta28/Leetcode/tree/master/0338-counting-bits) |
 | [0967-minimum-falling-path-sum](https://github.com/radhikagupta28/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 ## Matrix
 |  |
@@ -106,4 +107,5 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/radhikagupta28/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/radhikagupta28/Leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
