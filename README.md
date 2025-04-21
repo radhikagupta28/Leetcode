@@ -50,6 +50,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/radhikagupta28/Leetcode/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/radhikagupta28/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/radhikagupta28/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Tree
 |  |
 | ------- |
@@ -101,4 +102,8 @@
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/radhikagupta28/Leetcode/tree/master/0801-is-graph-bipartite) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/radhikagupta28/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
