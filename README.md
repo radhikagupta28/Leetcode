@@ -92,6 +92,7 @@
 ## Math
 |  |
 | ------- |
+| [2649-count-total-number-of-colored-cells](https://github.com/radhikagupta28/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2998-count-symmetric-integers](https://github.com/radhikagupta28/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Enumeration
 |  |
