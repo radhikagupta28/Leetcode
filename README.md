@@ -62,11 +62,13 @@
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/radhikagupta28/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/radhikagupta28/Leetcode/tree/master/0113-path-sum-ii) |
+| [0563-binary-tree-tilt](https://github.com/radhikagupta28/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/radhikagupta28/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/radhikagupta28/Leetcode/tree/master/0113-path-sum-ii) |
+| [0563-binary-tree-tilt](https://github.com/radhikagupta28/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0801-is-graph-bipartite](https://github.com/radhikagupta28/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/radhikagupta28/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
@@ -79,6 +81,7 @@
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/radhikagupta28/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/radhikagupta28/Leetcode/tree/master/0113-path-sum-ii) |
+| [0563-binary-tree-tilt](https://github.com/radhikagupta28/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/radhikagupta28/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Backtracking
 |  |
