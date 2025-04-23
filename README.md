@@ -117,6 +117,7 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/radhikagupta28/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/radhikagupta28/Leetcode/tree/master/0338-counting-bits) |
+| [1054-complement-of-base-10-integer](https://github.com/radhikagupta28/Leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [2308-divide-array-into-equal-pairs](https://github.com/radhikagupta28/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Sliding Window
 |  |
