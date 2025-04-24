@@ -19,6 +19,7 @@
 | [0120-triangle](https://github.com/radhikagupta28/Leetcode/tree/master/0120-triangle) |
 | [0338-counting-bits](https://github.com/radhikagupta28/Leetcode/tree/master/0338-counting-bits) |
 | [0967-minimum-falling-path-sum](https://github.com/radhikagupta28/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1764-maximum-repeating-substring](https://github.com/radhikagupta28/Leetcode/tree/master/1764-maximum-repeating-substring) |
 ## Matrix
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/radhikagupta28/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1764-maximum-repeating-substring](https://github.com/radhikagupta28/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/radhikagupta28/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sorting
 |  |
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/radhikagupta28/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+## String Matching
+|  |
+| ------- |
+| [1764-maximum-repeating-substring](https://github.com/radhikagupta28/Leetcode/tree/master/1764-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
