@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/radhikagupta28/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/radhikagupta28/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/radhikagupta28/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/radhikagupta28/Leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/radhikagupta28/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -15,6 +16,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/radhikagupta28/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/radhikagupta28/Leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/radhikagupta28/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/radhikagupta28/Leetcode/tree/master/0120-triangle) |
@@ -147,4 +149,13 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/radhikagupta28/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/radhikagupta28/Leetcode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/radhikagupta28/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/radhikagupta28/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
