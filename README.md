@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/radhikagupta28/Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/radhikagupta28/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/radhikagupta28/Leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/radhikagupta28/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -142,4 +143,8 @@
 |  |
 | ------- |
 | [1764-maximum-repeating-substring](https://github.com/radhikagupta28/Leetcode/tree/master/1764-maximum-repeating-substring) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/radhikagupta28/Leetcode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
