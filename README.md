@@ -72,6 +72,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/radhikagupta28/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/radhikagupta28/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/radhikagupta28/Leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/radhikagupta28/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/radhikagupta28/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -82,6 +83,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/radhikagupta28/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/radhikagupta28/Leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/radhikagupta28/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/radhikagupta28/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/radhikagupta28/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/radhikagupta28/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/radhikagupta28/Leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/radhikagupta28/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/radhikagupta28/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
