@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/radhikagupta28/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/radhikagupta28/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [1764-maximum-repeating-substring](https://github.com/radhikagupta28/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [3533-snake-in-matrix](https://github.com/radhikagupta28/Leetcode/tree/master/3533-snake-in-matrix) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/radhikagupta28/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
