@@ -16,6 +16,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/radhikagupta28/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/radhikagupta28/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3533-snake-in-matrix](https://github.com/radhikagupta28/Leetcode/tree/master/3533-snake-in-matrix) |
+| [3849-equal-sum-grid-partition-i](https://github.com/radhikagupta28/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0073-set-matrix-zeroes](https://github.com/radhikagupta28/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/radhikagupta28/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/radhikagupta28/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [3849-equal-sum-grid-partition-i](https://github.com/radhikagupta28/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +149,7 @@
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/radhikagupta28/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3849-equal-sum-grid-partition-i](https://github.com/radhikagupta28/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Union Find
 |  |
 | ------- |
@@ -197,4 +200,8 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/radhikagupta28/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [3849-equal-sum-grid-partition-i](https://github.com/radhikagupta28/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
