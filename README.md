@@ -44,6 +44,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/radhikagupta28/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2308-divide-array-into-equal-pairs](https://github.com/radhikagupta28/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/radhikagupta28/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/radhikagupta28/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## String
 |  |
 | ------- |
@@ -52,11 +53,13 @@
 | [1764-maximum-repeating-substring](https://github.com/radhikagupta28/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [3533-snake-in-matrix](https://github.com/radhikagupta28/Leetcode/tree/master/3533-snake-in-matrix) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/radhikagupta28/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/radhikagupta28/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/radhikagupta28/Leetcode/tree/master/0056-merge-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/radhikagupta28/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/radhikagupta28/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -70,6 +73,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/radhikagupta28/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2308-divide-array-into-equal-pairs](https://github.com/radhikagupta28/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/radhikagupta28/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -204,4 +208,8 @@
 |  |
 | ------- |
 | [3849-equal-sum-grid-partition-i](https://github.com/radhikagupta28/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
+## Greedy
+|  |
+| ------- |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/radhikagupta28/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 <!---LeetCode Topics End-->
