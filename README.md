@@ -218,4 +218,8 @@
 |  |
 | ------- |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/radhikagupta28/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+## Database
+|  |
+| ------- |
+| [1877-find-followers-count](https://github.com/radhikagupta28/Leetcode/tree/master/1877-find-followers-count) |
 <!---LeetCode Topics End-->
