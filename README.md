@@ -13,6 +13,7 @@
 | [0073-set-matrix-zeroes](https://github.com/radhikagupta28/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0120-triangle](https://github.com/radhikagupta28/Leetcode/tree/master/0120-triangle) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/radhikagupta28/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0542-01-matrix](https://github.com/radhikagupta28/Leetcode/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/radhikagupta28/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/radhikagupta28/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/radhikagupta28/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -27,6 +28,7 @@
 | [0120-triangle](https://github.com/radhikagupta28/Leetcode/tree/master/0120-triangle) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/radhikagupta28/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/radhikagupta28/Leetcode/tree/master/0338-counting-bits) |
+| [0542-01-matrix](https://github.com/radhikagupta28/Leetcode/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/radhikagupta28/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1764-maximum-repeating-substring](https://github.com/radhikagupta28/Leetcode/tree/master/1764-maximum-repeating-substring) |
 ## Matrix
@@ -35,6 +37,7 @@
 | [0064-minimum-path-sum](https://github.com/radhikagupta28/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/radhikagupta28/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/radhikagupta28/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0542-01-matrix](https://github.com/radhikagupta28/Leetcode/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/radhikagupta28/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [3849-equal-sum-grid-partition-i](https://github.com/radhikagupta28/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Hash Table
@@ -115,6 +118,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/radhikagupta28/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/radhikagupta28/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/radhikagupta28/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0542-01-matrix](https://github.com/radhikagupta28/Leetcode/tree/master/0542-01-matrix) |
 | [0801-is-graph-bipartite](https://github.com/radhikagupta28/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/radhikagupta28/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
