@@ -89,6 +89,7 @@
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/radhikagupta28/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/radhikagupta28/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/radhikagupta28/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/radhikagupta28/Leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/radhikagupta28/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/radhikagupta28/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/radhikagupta28/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/radhikagupta28/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/radhikagupta28/Leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/radhikagupta28/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/radhikagupta28/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -114,6 +116,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/radhikagupta28/Leetcode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/radhikagupta28/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/radhikagupta28/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/radhikagupta28/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -126,6 +129,7 @@
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/radhikagupta28/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/radhikagupta28/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/radhikagupta28/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/radhikagupta28/Leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/radhikagupta28/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/radhikagupta28/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
