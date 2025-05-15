@@ -16,6 +16,7 @@
 | [0542-01-matrix](https://github.com/radhikagupta28/Leetcode/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/radhikagupta28/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/radhikagupta28/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/radhikagupta28/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/radhikagupta28/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3533-snake-in-matrix](https://github.com/radhikagupta28/Leetcode/tree/master/3533-snake-in-matrix) |
 | [3849-equal-sum-grid-partition-i](https://github.com/radhikagupta28/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
@@ -47,6 +48,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/radhikagupta28/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/radhikagupta28/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2308-divide-array-into-equal-pairs](https://github.com/radhikagupta28/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/radhikagupta28/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/radhikagupta28/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/radhikagupta28/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## String
@@ -183,6 +185,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/radhikagupta28/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/radhikagupta28/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/radhikagupta28/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String Matching
