@@ -229,5 +229,6 @@
 |  |
 | ------- |
 | [1877-find-followers-count](https://github.com/radhikagupta28/Leetcode/tree/master/1877-find-followers-count) |
+| [2087-confirmation-rate](https://github.com/radhikagupta28/Leetcode/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/radhikagupta28/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
