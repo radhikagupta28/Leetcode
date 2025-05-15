@@ -100,6 +100,7 @@
 | [0563-binary-tree-tilt](https://github.com/radhikagupta28/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/radhikagupta28/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/radhikagupta28/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/radhikagupta28/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [0801-is-graph-bipartite](https://github.com/radhikagupta28/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/radhikagupta28/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/radhikagupta28/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/radhikagupta28/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -126,6 +128,7 @@
 | [0542-01-matrix](https://github.com/radhikagupta28/Leetcode/tree/master/0542-01-matrix) |
 | [0801-is-graph-bipartite](https://github.com/radhikagupta28/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/radhikagupta28/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/radhikagupta28/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -140,6 +143,7 @@
 | [0563-binary-tree-tilt](https://github.com/radhikagupta28/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/radhikagupta28/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/radhikagupta28/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/radhikagupta28/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
