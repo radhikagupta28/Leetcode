@@ -12,6 +12,7 @@
 | [0059-spiral-matrix-ii](https://github.com/radhikagupta28/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/radhikagupta28/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/radhikagupta28/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/radhikagupta28/Leetcode/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/radhikagupta28/Leetcode/tree/master/0120-triangle) |
 | [0200-number-of-islands](https://github.com/radhikagupta28/Leetcode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/radhikagupta28/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -40,6 +41,7 @@
 | [0059-spiral-matrix-ii](https://github.com/radhikagupta28/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/radhikagupta28/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/radhikagupta28/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/radhikagupta28/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/radhikagupta28/Leetcode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/radhikagupta28/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/radhikagupta28/Leetcode/tree/master/0542-01-matrix) |
@@ -58,6 +60,7 @@
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/radhikagupta28/Leetcode/tree/master/0079-word-search) |
 | [0451-sort-characters-by-frequency](https://github.com/radhikagupta28/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/radhikagupta28/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [1764-maximum-repeating-substring](https://github.com/radhikagupta28/Leetcode/tree/master/1764-maximum-repeating-substring) |
@@ -109,6 +112,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/radhikagupta28/Leetcode/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/radhikagupta28/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/radhikagupta28/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/radhikagupta28/Leetcode/tree/master/0113-path-sum-ii) |
@@ -156,6 +160,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/radhikagupta28/Leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/radhikagupta28/Leetcode/tree/master/0113-path-sum-ii) |
 ## Linked List
 |  |
