@@ -50,6 +50,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/radhikagupta28/Leetcode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/radhikagupta28/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0451-sort-characters-by-frequency](https://github.com/radhikagupta28/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/radhikagupta28/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -60,6 +61,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/radhikagupta28/Leetcode/tree/master/0012-integer-to-roman) |
 | [0079-word-search](https://github.com/radhikagupta28/Leetcode/tree/master/0079-word-search) |
 | [0451-sort-characters-by-frequency](https://github.com/radhikagupta28/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/radhikagupta28/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -176,6 +178,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/radhikagupta28/Leetcode/tree/master/0012-integer-to-roman) |
 | [2649-count-total-number-of-colored-cells](https://github.com/radhikagupta28/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2998-count-symmetric-integers](https://github.com/radhikagupta28/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Enumeration
