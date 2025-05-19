@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/radhikagupta28/Leetcode/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/radhikagupta28/Leetcode/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/radhikagupta28/Leetcode/tree/master/0079-word-search) |
 | [0451-sort-characters-by-frequency](https://github.com/radhikagupta28/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/radhikagupta28/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -179,6 +180,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/radhikagupta28/Leetcode/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/radhikagupta28/Leetcode/tree/master/0043-multiply-strings) |
 | [2649-count-total-number-of-colored-cells](https://github.com/radhikagupta28/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2998-count-symmetric-integers](https://github.com/radhikagupta28/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Enumeration
@@ -230,6 +232,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/radhikagupta28/Leetcode/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/radhikagupta28/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [3533-snake-in-matrix](https://github.com/radhikagupta28/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Topological Sort
