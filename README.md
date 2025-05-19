@@ -257,6 +257,7 @@
 ## Database
 |  |
 | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/radhikagupta28/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1155-product-sales-analysis-iii](https://github.com/radhikagupta28/Leetcode/tree/master/1155-product-sales-analysis-iii) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/radhikagupta28/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1877-find-followers-count](https://github.com/radhikagupta28/Leetcode/tree/master/1877-find-followers-count) |
