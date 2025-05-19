@@ -21,6 +21,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/radhikagupta28/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/radhikagupta28/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/radhikagupta28/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3321-type-of-triangle](https://github.com/radhikagupta28/Leetcode/tree/master/3321-type-of-triangle) |
 | [3533-snake-in-matrix](https://github.com/radhikagupta28/Leetcode/tree/master/3533-snake-in-matrix) |
 | [3849-equal-sum-grid-partition-i](https://github.com/radhikagupta28/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Dynamic Programming
@@ -75,6 +76,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/radhikagupta28/Leetcode/tree/master/0056-merge-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/radhikagupta28/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [3321-type-of-triangle](https://github.com/radhikagupta28/Leetcode/tree/master/3321-type-of-triangle) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/radhikagupta28/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
@@ -183,6 +185,7 @@
 | [0043-multiply-strings](https://github.com/radhikagupta28/Leetcode/tree/master/0043-multiply-strings) |
 | [2649-count-total-number-of-colored-cells](https://github.com/radhikagupta28/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2998-count-symmetric-integers](https://github.com/radhikagupta28/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3321-type-of-triangle](https://github.com/radhikagupta28/Leetcode/tree/master/3321-type-of-triangle) |
 ## Enumeration
 |  |
 | ------- |
